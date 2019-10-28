@@ -3,6 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+output:
+
+Enter a keyword:
+hello
+heloabcdfgikmnpqrstuvwxyz
+h e l o a 
+b c d f g 
+i k m n p 
+q r s t u 
+v w x y z 
+Enter word to encrypt: (Make sure length of message is even)
+hellochennai
+Encryption: eldloabeokpomv
+*/
 package securitylab;
 
 import java.util.Scanner;
